@@ -18,10 +18,16 @@ A Python-based EDA project exploring the impact of lifestyle habits like diet, a
 - Transportation mode vs weight
 - Obesity level distribution
 
+
 ## Key Insights
-- Family history is associated with higher body weight
-- Frequent high-calorie food consumption increases obesity risk
-- Active transportation is linked to lower average weight
-- Obesity is influenced by multiple interacting lifestyle factors
+- Individuals with a family history of overweight tend to have higher average weight
+- Frequent consumption of high-calorie food is associated with increased obesity risk
+- Active transportation modes (walking, biking) are linked to lower body weight
+- Obesity patterns are influenced by multiple interacting lifestyle factors
+
+## Conclusion
+Body weight and obesity are not driven by a single habit but by a combination of
+dietary choices, physical activity, alcohol consumption, and family history.
+Balanced lifestyle behaviors play a crucial role in managing healthy weight.
 
 ## Project Structure
