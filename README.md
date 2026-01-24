@@ -29,5 +29,3 @@ A Python-based EDA project exploring the impact of lifestyle habits like diet, a
 Body weight and obesity are not driven by a single habit but by a combination of
 dietary choices, physical activity, alcohol consumption, and family history.
 Balanced lifestyle behaviors play a crucial role in managing healthy weight.
-
-## Project Structure
